@@ -1,6 +1,6 @@
 # The Next Dimensions
 
-[![The Next Dimensions Preview](public/the-next-dimensions-screenshot.png)](https://the-next-dimensions-dv192.vercel.app/)
+[![The Next Dimensions Preview](public/the-next-dimensions-screenshot.png)](https://the-next-dimensions.vercel.app/)
 
 **Dive into the world of Three.js with "The Next Dimensions."** This project utilizes Next.js, HTML, CSS, and JavaScript to craft immersive web experiences. Tailwind CSS provides a utility-first styling approach, GSAP handles animations, and React Three Fiber brings stunning 3D particle effects to life. Prepare for a visual journey that transcends the ordinary.
 
@@ -46,4 +46,4 @@ This project was created by following the tutorial on [DesignCourse YouTube Chan
 
 ## Deployment
 
-This project is deployed on [Vercel](https://vercel.com/). Visit the live version [here](https://the-next-dimensions-dv192.vercel.app/).
+This project is deployed on [Vercel](https://vercel.com/). Visit the live version [here](https://the-next-dimensions.vercel.app/).
